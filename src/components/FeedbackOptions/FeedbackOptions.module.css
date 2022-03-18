@@ -1,0 +1,14 @@
+.button {
+  height: 30px;
+  width: 80px;
+  text-transform: capitalize;
+}
+.containerBtn {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid rgb(47, 0, 255);
+  height: auto;
+  padding: 20px;
+  width: 450px;
+  margin-left: 30px;
+}
